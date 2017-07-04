@@ -1,7 +1,7 @@
 <?php
 //1、创建命名空间
 //2、之所以这样命名，是为了符合composer中的psr-4规则
-namespace houdunwang\model;
+namespace daniel007\model;
 use \PDOException;
 use \PDO;
 /**
