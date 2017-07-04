@@ -1,6 +1,6 @@
 <?php
 //命名空间
-namespace houdunwang\model;
+namespace daniel007\model;
 class Model{
     private static $config;
     /**
